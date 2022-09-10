@@ -936,9 +936,7 @@ body {
  */
 
  @media (max-width:637px ) {
-    /* .logoja{
-      visibility: hidden;
-    } */
+    
     .logoja{
       display: none;
     }
