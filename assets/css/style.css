@@ -25,7 +25,7 @@
   --eerie-black: hsl(210, 11%, 15%);
   --dark-orange: hsl(7, 100%, 50%);
   /* --dark-orange: hsl(32, 100%, 50%); */
-  --alice-blue: hsl(203, 100%, 97%);
+  --alice-blue: rgb(206, 215, 219);
   --light-gray: hsl(0, 0%, 80%);
   --indigo-dye: hsl(202, 64%, 26%);
   --cultured-1: hsl(0, 0%, 94%);
